@@ -1,0 +1,5 @@
+Target,Metric,Run_1,Run_2,Run_3,Average
+Before,Total_Execution_Time(s),1.73,1.71,1.76,1.73
+After,Total_Execution_Time(s),1.40,1.38,1.32,1.37
+Before,Peak_Memory(MB),380.00,380.00,380.00,380.00
+After,Peak_Memory(MB),42.00,42.00,42.00,42.00
